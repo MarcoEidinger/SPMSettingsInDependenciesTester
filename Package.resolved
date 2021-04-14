@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SPMSettingsTester",
+        "repositoryURL": "https://github.com/MarcoEidinger/SPMSettingsTester",
+        "state": {
+          "branch": null,
+          "revision": "297beaae5d17e31a9c2719ccc0c7476287adba6f",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
